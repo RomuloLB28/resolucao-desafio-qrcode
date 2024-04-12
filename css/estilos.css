@@ -84,7 +84,7 @@ body {
 
     .corpo p {
         font-size: 14px; /* Ajusta o tamanho do texto para torná-lo mais legível em telas menores */
-        margin-top: 16px; /* Reduz o espaçamento entre o texto e os elementos acima */
+        margin-top: 28px; /* Reduz o espaçamento entre o texto e os elementos acima */
         font-size:20 px;
         transform: scale(1.1);
     }
