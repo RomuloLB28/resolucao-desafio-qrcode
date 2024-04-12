@@ -76,7 +76,7 @@ body {
 
     .corpo h1 {
         font-size: 18px; /* Ajusta o tamanho do texto para torná-lo mais legível em telas menores */
-        margin-top: 50vh;
+        margin-top: 60vh;
         font-size: 20px;
         transform: scale(1.1);
     
@@ -84,7 +84,7 @@ body {
 
     .corpo p {
         font-size: 14px; /* Ajusta o tamanho do texto para torná-lo mais legível em telas menores */
-        margin-top: 10px; /* Reduz o espaçamento entre o texto e os elementos acima */
+        margin-top: 30px; /* Reduz o espaçamento entre o texto e os elementos acima */
         font-size:20 px;
         transform: scale(1.1);
     }
