@@ -56,12 +56,11 @@ body {
     color:gray;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 620px) {
     .corpo {
     background: #fff;
     width: 35vh;
     height: 60vh;
-    max-width: 600px;
     border-radius: 6%;
     padding: 50px;
     position: absolute;
